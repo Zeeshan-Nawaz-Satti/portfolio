@@ -64,7 +64,7 @@ const AnimatedSections = () => {
       tolerance: 10,
       preventDefault: true,
     });
-  }, [currentIndex]);
+  }, [currentIndex, wrap]);
 
   return (
     <div>

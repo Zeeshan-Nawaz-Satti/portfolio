@@ -1,4 +1,3 @@
-// import Experiences from "./components/Experiences"
 import Header from "./components/Header"
 import Logo from "./components/Logo"
 import Footer from "./Footer"
@@ -15,7 +14,6 @@ const App = () => {
     <>
     <Header/>
     <Page1/>
-    {/* <Experiences/> */}
     <Page2/>
     <Logo/>
     <Page3/>
